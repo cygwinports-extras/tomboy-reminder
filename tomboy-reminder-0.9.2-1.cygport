@@ -1,0 +1,5 @@
+inherit mono
+
+DESCRIPTION="Tomboy reminder plugin"
+HOMEPAGE="http://flukkost.nu/blog/tomboy-reminder/"
+SRC_URI="http://flukkost.nu/${P}.tar.gz"
